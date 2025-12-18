@@ -1,0 +1,5 @@
+login,password,nombre,apellido1,apellido2,descripcion,departamento
+pro01,R8v!K2mZqA9#,Marta,Gomez,Lopez,"Docente ESO/BAT - Usuario 1",Profesorado_ESOBAT
+pro02,T4$Qn7A!eP2L,Javier,Serra,Martinez,"Docente ESO/BAT - Usuario 2",Profesorado_ESOBAT
+alu01,M9!sE4Zq#K2A,Paula,Torres,Ruiz,"Alumno Ciclos - Usuario 1",Alumnado_Ciclos
+alu02,P7@A3N!LQmZ2,Daniel,Martin,Gil,"Alumno Ciclos - Usuario 2",Alumnado_Ciclos
